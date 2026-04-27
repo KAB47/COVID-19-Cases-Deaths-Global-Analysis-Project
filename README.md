@@ -4,7 +4,9 @@ SQL-driven global analysis of COVID-19 deaths, infection rates, and vaccination 
 
 ## TL;DR
 
-SQL used to explore and extract four key result sets from raw global COVID-19 death and vaccination datasets, fed into a Tableau dashboard. Key findings:
+SQL used to explore and extract four key result sets from raw global COVID-19 death and vaccination datasets, fed into a Tableau dashboard. 
+
+**Key findings:**
 
 1. 150.6M total cases and 3.18M deaths globally — a 2.11% global death rate
 2. Europe had the highest death toll by continent — 1,016,750 deaths
