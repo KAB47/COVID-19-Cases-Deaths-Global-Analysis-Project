@@ -8,11 +8,11 @@ SQL used to explore and extract four key result sets from raw global COVID-19 de
 
 **Key findings:**
 
-1. 150.6M total cases and 3.18M deaths globally — a 2.11% global death rate
-2. Europe had the highest death toll by continent — 1,016,750 deaths
+1. **150.6M total cases** and **3.18M deaths globally** — a **2.11% global death rate**
+2. **Europe had the highest death toll** by continent — 1,016,750 deaths
 3. North America second highest — 847,942, followed by South America at 672,415
 4. Asia recorded 520,269 deaths; Africa 121,784; Oceania 1,046
-5. Andorra had the highest infection rate globally — 17.13% of its population infected
+5. **Andorra had the highest infection rate globally** — 17.13% of its population infected
 6. Montenegro second at 15.51%, Czechia third at 15.23%, San Marino fourth at 14.93%
 7. Time-series data tracked infection rate progression by country and date, enabling trend analysis over the course of the pandemic
 
